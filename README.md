@@ -1,1 +1,1 @@
-# Agriculture-Disease-Detection
+# Detecting 3 types of diseases in corn leaf pictures

@@ -1,6 +1,6 @@
 # Modeling Diseases in Corn Leaves Using Computer Vision
 
-<strong>Find the rendered version of this write-up [here](https://github.com/Sam-B-Y/AI-Corn-Disease-Detection/paper.pdf).</strong>
+<strong>Find the rendered version of this write-up [here](https://github.com/Sam-B-Y/AI-Corn-Disease-Detection/blob/main/paper.pdf).</strong>
 
 Sam Borremans <sup>\*1</sup>, Samuel Orellana Mateo<sup>\*1</sup>, Yash Singam <sup>\*1</sup>,  Samir Travers <sup>\*1</sup>, Benjamin Yan <sup>*1</sup>
 
